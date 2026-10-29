@@ -37,13 +37,9 @@
 
 #### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code, Antigravity" />
 </p>
-###  Anti Gravity
 
-<p>
-  <img src="https://img.shields.io/badge/Anti%20Gravity-AI%20Development%20Workflow-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Anti Gravity" />
-</p>
 
 ---
 
@@ -53,7 +49,7 @@
 - ⚙️ Backend Development
 - 🗄️ Database Management with MySQL, Supabase, NeonDB, PosgreSql
 - ⚛️ Building React Applications with Vite
-- 🔗 Developing Web Applications with Laravel PHP and JS
+- 🔗 Developing Web Applications with Laravel and PHP
 
 ---
 
