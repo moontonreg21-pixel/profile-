@@ -39,6 +39,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 </p>
+###  Anti Gravity
+
+<p>
+  <img src="https://img.shields.io/badge/Anti%20Gravity-AI%20Development%20Workflow-8B5CF6?style=for-the-badge&logo=google&logoColor=white" alt="Anti Gravity" />
+</p>
 
 ---
 
@@ -73,7 +78,7 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/moontonreg21-pixel">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
