@@ -10,15 +10,15 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I'm a Web Developer specializing in **Frontend and Backend Development**
-- 💻 I enjoy building modern and responsive websites
-- 🚀 Interested in developing web applications and learning new technologies
-- 🎯 Focused on writing clean, efficient, and maintainable code
-- 🤝 Open to collaboration on interesting web development projects
+-  I'm a Web Developer specializing in **Frontend and Backend Development**
+-  I enjoy building modern and responsive websites
+-  Interested in developing web applications and learning new technologies
+-  Focused on writing clean, efficient, and maintainable code
+-  Open to collaboration on interesting web development projects
 
 ---
 
-### 🛠️ Languages & Technologies
+###  Languages & Technologies
 
 #### 💡 Programming Languages
 <p>
